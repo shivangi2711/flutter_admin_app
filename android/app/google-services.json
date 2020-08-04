@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958235659781",
+    "firebase_url": "https://admin-shopping-app.firebaseio.com",
+    "project_id": "admin-shopping-app",
+    "storage_bucket": "admin-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958235659781:android:4fb39db32d0371b5d3566c",
+        "android_client_info": {
+          "package_name": "com.example.admin_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958235659781-13b3vg2d1af4c0pl9lfccv000gpub65p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_shopping_app",
+            "certificate_hash": "07976d167be1869099eea5b37b9ca700538a6210"
+          }
+        },
+        {
+          "client_id": "958235659781-vqtv4vhb72gho59airurmlr5at9mtdhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtN0bAtFSfgMOklZuPemZEj56ZhPaiSMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958235659781-vqtv4vhb72gho59airurmlr5at9mtdhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
